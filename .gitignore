@@ -42,3 +42,7 @@ __pycache__
 # Python environments
 env
 .venv
+
+#Git
+.gitignore
+.gitattributes
