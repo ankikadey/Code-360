@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+*.gitignore
+*.gitattributes
 
 # Compiled Object files
 *.slo
@@ -42,7 +44,3 @@ __pycache__
 # Python environments
 env
 .venv
-
-#Git
-.gitignore
-.gitattributes
